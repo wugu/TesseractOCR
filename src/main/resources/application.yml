@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+
+tess4j:
+  datapath: D:/tessdata
